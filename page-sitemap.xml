@@ -187,16 +187,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-2/participants/</loc>
-		<lastmod>2024-09-21T18:03:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network_physiology_700px-6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/ISINP_2019_group_picture.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-2/program/</loc>
 		<lastmod>2024-09-21T21:19:31+00:00</lastmod>
 		<image:image>
@@ -210,6 +200,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/4-1024x574-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-2/participants/</loc>
+		<lastmod>2024-09-21T21:34:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network_physiology_700px-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/ISINP_2019_group_picture.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
