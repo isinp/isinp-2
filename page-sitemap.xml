@@ -54,16 +54,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-2/poster_announcements/</loc>
-		<lastmod>2024-09-21T15:12:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network_physiology_700px-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network-Physiology-ISINP2019_800px.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-2/application-deadlines/</loc>
 		<lastmod>2024-09-21T16:29:46+00:00</lastmod>
 		<image:image>
@@ -78,22 +68,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/villa-sucota-como_400px-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://isinp.github.io/isinp-2/program/</loc>
-		<lastmod>2024-09-21T21:19:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Table-2019-9July2019_800px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/4-1024x574-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -213,6 +187,35 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Physiology-image-800px-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-2/poster_announcements/</loc>
+		<lastmod>2024-09-22T11:56:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network_physiology_700px-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network-Physiology-ISINP2019_800px.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-2/program/</loc>
+		<lastmod>2024-09-22T12:16:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/ISINP-Booklet-2019-CoverPage_800px.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/Table-2019-9July2019_800px.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/4-1024x574-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
