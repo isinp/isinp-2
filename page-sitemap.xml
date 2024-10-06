@@ -20,16 +20,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-2/poster_announcements/</loc>
-		<lastmod>2024-10-06T10:08:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/10/Network_physiology_logo_350px.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/10/ISINP-2019-Poster_800px.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-2/school-director/</loc>
 		<lastmod>2024-10-06T10:09:43+00:00</lastmod>
 		<image:image>
@@ -216,6 +206,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/09/4-1024x574-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-2/poster_announcements/</loc>
+		<lastmod>2024-10-06T12:20:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/10/Network_physiology_logo_350px.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-2/wp-content/uploads/2024/10/ISINP-2019-Poster_800px.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
